@@ -26,3 +26,4 @@ def concatenate(**kwargs):
 concatenate(a="I", b="like",c="Pyhton")    
 name = input("Please input your name: ")
 print("your name is ",name)
+# Slice is a subset of a string or other element
